@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 p {
   color: #333;
 }
@@ -10,3 +11,8 @@ h1 {
 section {
   background-color: #f4f4f4;
 }
+=======
+body{
+  background-color: violet;
+}
+>>>>>>> test
